@@ -16,5 +16,6 @@ public class Main {
 
         // заполните другие поля даты рождения
 
+        System.out.println();
     }
 }
